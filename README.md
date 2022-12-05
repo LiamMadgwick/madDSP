@@ -1,6 +1,6 @@
-# madDSP
+# ooshDSP
 
-madDSP - madgwick DSP..
+ooshDSP..
 my DSP library.. contains objects for audio processing written in c++.
 
 Not all of this is my work...
